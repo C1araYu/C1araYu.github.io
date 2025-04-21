@@ -14,11 +14,24 @@ My research interests include Trustworthy ML, Explanable AI and Computer Vision.
 **I am looking for a PhD position in Fall 2026!!**
 
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+##POLAR: Policy-based Layerwise Reinforcement Method for Stealthy Backdoor Attacks in Federated Learning
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Kuai Yu**, Xiaoyu Wu, Peishen Yan, Yang Hua, Hao Wang, Tao Song, Linshan Jiang, Haibing
+Guan
+
+*Submitted to ICCV 2025, Under Review*
+
+We proposed POLAR, a reinforcement learning method for efficient and stealthy backdoor attack in federated learning.
+
+##W3FedPOSE: A Practical WEB3.0-Based Federated Learning Framework with Privacy, Ownership, Security and Efffciency
+
+Peishen Yan, **Kuai Yu**, Yaozhi Zhang, Yulin Sun, Shuang Liang, Yang Hua, Tao Song, Linshan Jiang, Ningxin Hu, Mohammad Reza Haghighat, Bingsheng He, Haibing Guan. 
+
+*Submitted to The Web Conf 2024*
+
+We design a new practical FL framework W3FedPOSE, which integrates blockchain technology, employing smart contracts for efficient transaction management and precise access control, with innovative explanable algorithm for incentive mechanism.
 
 Getting started
 ======
