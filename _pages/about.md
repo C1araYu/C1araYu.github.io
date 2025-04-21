@@ -16,22 +16,22 @@ My research interests include Trustworthy ML, Explanable AI and Computer Vision.
 
 Publications
 ======
-##POLAR: Policy-based Layerwise Reinforcement Method for Stealthy Backdoor Attacks in Federated Learning
+## POLAR: Policy-based Layerwise Reinforcement Method for Stealthy Backdoor Attacks in Federated Learning
 
-**Kuai Yu**, Xiaoyu Wu, Peishen Yan, Yang Hua, Hao Wang, Tao Song, Linshan Jiang, Haibing
-Guan
+**Kuai Yu**, Xiaoyu Wu, Peishen Yan, Yang Hua, Hao Wang, Tao Song, Linshan Jiang, Haibing Guan
 
 *Submitted to ICCV 2025, Under Review*
 
-We proposed POLAR, a reinforcement learning method for efficient and stealthy backdoor attack in federated learning.
+We propose POLAR, a reinforcement learning method for efficient and stealthy backdoor attack in federated learning.
 
-##W3FedPOSE: A Practical WEB3.0-Based Federated Learning Framework with Privacy, Ownership, Security and Efffciency
+## W3FedPOSE: A Practical WEB3.0-Based Federated Learning Framework with Privacy, Ownership, Security and Efficiency
 
-Peishen Yan, **Kuai Yu**, Yaozhi Zhang, Yulin Sun, Shuang Liang, Yang Hua, Tao Song, Linshan Jiang, Ningxin Hu, Mohammad Reza Haghighat, Bingsheng He, Haibing Guan. 
+Peishen Yan, **Kuai Yu**, Yaozhi Zhang, Yulin Sun, Shuang Liang, Yang Hua, Tao Song, Linshan Jiang, Ningxin Hu, Mohammad Reza Haghighat, Bingsheng He, Haibing Guan
 
 *Submitted to The Web Conf 2024*
 
-We design a new practical FL framework W3FedPOSE, which integrates blockchain technology, employing smart contracts for efficient transaction management and precise access control, with innovative explanable algorithm for incentive mechanism.
+We design a new practical FL framework W3FedPOSE, which integrates blockchain technology, employing smart contracts for efficient transaction management and precise access control, with an innovative explainable algorithm for the incentive mechanism.
+
 
 Getting started
 ======
