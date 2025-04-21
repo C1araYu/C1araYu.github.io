@@ -14,8 +14,7 @@ My research interests include Trustworthy ML, Explanable AI and Computer Vision.
 **I am looking for a PhD position in Fall 2026!!**
 
 
-Publications
-======
+## 📚 Publications
 ### POLAR: Policy-based Layerwise Reinforcement Method for Stealthy Backdoor Attacks in Federated Learning  
 **Kuai Yu**, Xiaoyu Wu, Peishen Yan, Yang Hua, Hao Wang, Tao Song, Linshan Jiang, Haibing Guan  
 *Submitted to ICCV 2025, Under Review*  
