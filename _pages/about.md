@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a first year master student in Computer Science from [Columbia Engineering](https://www.engineering.columbia.edu/). I am very fortunate to be supervised by [Prof. Hod Lipson](https://www.hodlipson.com/) in [Creative Machines Lab](https://www.creativemachineslab.com/) from [Columbia University](https://www.columbia.edu/). Also, I am supervised by [Prof. Hao Wang](https://intellisys.haow.us/haowang/) in [Intellisys lab](https://intellisys.haow.us/) from [Stevens Institute of Technology](https://www.stevens.edu/). 
+Hi! I'm a first year master student in Computer Science from [Columbia Engineering](https://www.engineering.columbia.edu/). I am very fortunate to be supervised by [Prof. Hod Lipson](https://www.hodlipson.com/) in [Creative Machines Lab](https://www.creativemachineslab.com/) from [Columbia University](https://www.columbia.edu/). Also, I am supervised by [Dr. Hao Wang](https://intellisys.haow.us/haowang/) in [Intellisys Lab](https://intellisys.haow.us/) from [Stevens Institute of Technology](https://www.stevens.edu/). 
 
 My research interests include Trustworthy ML, Explanable AI and Computer Vision.
 
