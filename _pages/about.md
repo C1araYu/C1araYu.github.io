@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year master student in Computer Science from Columbia Engineering. My research interests include Trustworthy ML, Explanable AI, 
+Hi! I'm a first year master student in Computer Science from [Columbia Engineering](https://www.engineering.columbia.edu/). I am very fortunate to be supervised by [Prof. Hod Lipson](https://www.hodlipson.com/) in [Creative Machines Lab](https://www.creativemachineslab.com/) from [Columbia University](https://www.columbia.edu/). Also, I am supervised by [Prof. Hao Wang](https://intellisys.haow.us/haowang/) in [Intellisys lab](https://intellisys.haow.us/) from [Stevens Institute of Technology](https://www.stevens.edu/). 
+My research interests include Trustworthy ML, Explanable AI and Computer Vision.  
 
+I am looking for a PhD position in Fall 2025!!
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
