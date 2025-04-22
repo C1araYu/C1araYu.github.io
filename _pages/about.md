@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Kuai (Clara) Yu 俞快"
 author_profile: true
 redirect_from: 
   - /about/
