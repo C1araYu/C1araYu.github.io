@@ -22,10 +22,10 @@ repository               : "C1araYu/C1araYu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self_intro.jpg"
+  avatar           : "self_intro.png"
   name             : "Kuai Yu"
   pronouns         : "She/Her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.S in CS. Big fan of clever algorithms, clean code, and cuddly dogs."
   location         : "New York, United States"
   employer         : "Columbia University"
   uri              : # URL
