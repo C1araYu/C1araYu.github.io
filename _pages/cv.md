@@ -63,24 +63,10 @@ Research Experiences
 - Designed a contribution allocation method that reduces complexity from \( O(2^n) \) to \( O(n) \) using tree computation structures.  
 - Validated the approach on multiple benchmarks, outperforming other approximations in accuracy while maintaining the same order of computational cost.
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Leading Cyber Security Scholarship** — *Top 5%*, awarded based on comprehensive performance  
+  *2023*
+
+- **Zhiyuan Honour Scholarship** — *Top 5%*, awarded based on academic excellence  
+  *2020, 2021*
