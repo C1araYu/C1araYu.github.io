@@ -16,20 +16,17 @@ Education
 
 Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Trustworthy ML**:  
+  Federated learning, distributed algorithms, and efficient model compression techniques for reliable and scalable machine learning.  
+  (*POLAR, Contribution Feedback Aggregation, W3FedPOSE, Enhanced Structured Lasso Pruning*)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Privacy and Security**:  
+  Adversarial attacks and defenses in federated settings, stealthy backdoor injection, and privacy-preserving learning with differential privacy.  
+  (*POLAR, State Variables Prediction, W3FedPOSE*)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Explainable AI**:  
+  Shapley-based contribution evaluation, incentive-aware aggregation, and class-wise interpretability in pruning and collaborative learning systems.  
+  (*W3FedPOSE, Contribution Feedback Aggregation, Enhanced Structured Lasso Pruning*)
   
 Skills
 ======
