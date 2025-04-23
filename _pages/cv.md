@@ -16,17 +16,17 @@ Education
 
 Research Interests
 ======
-* **Trustworthy ML**:  
-  Federated learning, distributed algorithms, and efficient model compression techniques for reliable and scalable machine learning.  
+* **Trustworthy Machine Learning**:  
+  Developing robust and secure learning frameworks in decentralized environments, including federated learning, distributed algorithms, backdoor attacks and defenses, differential privacy, and model compression techniques.  
   (*POLAR, Contribution Feedback Aggregation, W3FedPOSE, Enhanced Structured Lasso Pruning*)
 
-* **Privacy and Security**:  
-  Adversarial attacks and defenses in federated settings, stealthy backdoor injection, and privacy-preserving learning with differential privacy.  
-  (*POLAR, State Variables Prediction, W3FedPOSE*)
-
 * **Explainable AI**:  
-  Shapley-based contribution evaluation, incentive-aware aggregation, and class-wise interpretability in pruning and collaborative learning systems.  
+  Designing interpretable and fairness-aware learning systems through Shapley-based contribution evaluation, incentive-aligned aggregation, and class-wise pruning guided by Information Bottleneck theory.  
   (*W3FedPOSE, Contribution Feedback Aggregation, Enhanced Structured Lasso Pruning*)
+
+* **Computer Vision**:  
+  Leveraging Vision Transformers for video-based state prediction and spatiotemporal modeling in dynamic systems.  
+  (*State Variables Prediction with ViT*)
   
 Skills
 ======
