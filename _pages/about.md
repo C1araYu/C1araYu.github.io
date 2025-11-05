@@ -53,14 +53,6 @@ We present W3FedPOSE, a practical federated learning framework that integrates W
 
 ---
 
-### Enhanced Structured Lasso Pruning with Class-wise Information
-
-Xiang Liu, Mingchen Li, Xia Li, Leigang Qu, Zifan Peng, Yijun Song, **Kuai Yu**, Zemin Liu, Linshan Jiang, Jialin Li.
-
-*Under Review*
-
-We propose two novel adaptive neural network pruning schemes: sparse graph-structured lasso pruning with Information Bottleneck (sGLP-IB) and sparse tree-guided lasso pruning with Information Bottleneck (sTLP-IB). 
-
 ## Services
 Reviewers for AAAI2026.
 
