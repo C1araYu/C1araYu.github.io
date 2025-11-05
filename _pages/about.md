@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Kuai. My name means happiness and speed in Chinese, two things I bring to both my research and my daily life. I'm a second year master student in Computer Science from [Columbia Engineering](https://www.engineering.columbia.edu/). I'm very fortunate to be supervised by [Prof. Hod Lipson](https://www.hodlipson.com/) in [Creative Machines Lab](https://www.creativemachineslab.com/) from [Columbia University](https://www.columbia.edu/). I also work as a research assistant with [Prof. Huan Zhang](https://huan-zhang.com/). Also, I am supervised by [Prof. Hao Wang](https://intellisys.haow.us/haowang/) in [Intellisys Lab](https://intellisys.haow.us/) from [Stevens Institute of Technology](https://www.stevens.edu/). 
+Hi! I'm Kuai. My name means happiness and speed in Chinese, two things I bring to both my research and my daily life. I'm a second year master student in Computer Science from [Columbia Engineering](https://www.engineering.columbia.edu/). I'm very fortunate to be supervised by [Prof. Hod Lipson](https://www.hodlipson.com/) in [Creative Machines Lab](https://www.creativemachineslab.com/) from [Columbia University](https://www.columbia.edu/). I also work as a research assistant with [Prof. Huan Zhang](https://huan-zhang.com/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). Also, I am supervised by [Prof. Hao Wang](https://intellisys.haow.us/haowang/) in [Intellisys Lab](https://intellisys.haow.us/) from [Stevens Institute of Technology](https://www.stevens.edu/). 
 
 My research interests include Web Agents, Trustworthy ML, and Computer Vison.
 
