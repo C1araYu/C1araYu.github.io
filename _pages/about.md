@@ -38,6 +38,7 @@ We propose LyTimeT, a vision-transformer-based framework that integrates Lyapuno
 
 *Under Review*  
 **[Paper Link](https://arxiv.org/abs/2510.19056)**
+
 We propose POLAR, a reinforcement learning-based method that formulates layer-wise selection for efficient and stealthy backdoor attacks in federated learning. POLAR dynamically adapts to defenses and balances attack success rate with stealthiness.
 
 ---
