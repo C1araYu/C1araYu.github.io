@@ -20,6 +20,7 @@ My research interests include Web Agents, Trustworthy ML, and Computer Vison.
 *Under Review*  
 
 We propose WebAgentsLook, a comprehensive evaluation framework that systematically generates CSS-based webpage variants to analyze how visual design elements such as color, layout, and typography influence web agents’ decision-making, revealing human-like visual biases and vulnerabilities in multimodal web agents.
+
 ---
 ### LyTimeT: Towards Robust and Interpretable State-Variable Discovery
 
@@ -29,6 +30,7 @@ We propose WebAgentsLook, a comprehensive evaluation framework that systematical
 **[Paper Link](https://arxiv.org/abs/2510.19716)**
 
 We propose LyTimeT, a vision-transformer-based framework that integrates Lyapunov-theoretic regularization with time-series modeling to discover interpretable and robust state variables from visual dynamical systems, enabling stable trajectory prediction and physically consistent variable extraction across diverse temporal domains.
+
 ---
 ### POLAR: Policy-based Layerwise Reinforcement Method for Stealthy Backdoor Attacks in Federated Learning  
 
