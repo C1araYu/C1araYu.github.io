@@ -14,19 +14,19 @@ My research interests include Web Agents, Trustworthy ML, and Computer Vison.
 
 
 ## Publications
-### What do Web Agents Look at? A Comprehensive Evaluation of How Web Design and Visual Elements Affect Web Agents
+### How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors
 **Kuai Yu**, Naicheng Yu, Han Wang, Huan Zhang
 
 *Under Review*  
 
-We propose WebAgentsLook, a comprehensive evaluation framework that systematically generates CSS-based webpage variants to analyze how visual design elements such as color, layout, and typography influence web agents’ decision-making, revealing human-like visual biases and vulnerabilities in multimodal web agents.
+We propose VAF, a comprehensive evaluation framework that systematically generates CSS-based webpage variants to analyze how visual design elements such as color, layout, and typography influence web agents’ decision-making, revealing human-like visual biases and vulnerabilities in multimodal web agents.
 
 ---
 ### LyTimeT: Towards Robust and Interpretable State-Variable Discovery
 
 **Kuai Yu**, Crystal Su, Xiang Liu, Judah Goldfeder, Mingyuan Shao, Hod Lipson
 
-*Under Review*  
+*2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP26)*  
 **[Paper Link](https://arxiv.org/abs/2510.19716)**
 
 We propose LyTimeT, a vision-transformer-based framework that integrates Lyapunov-theoretic regularization with time-series modeling to discover interpretable and robust state variables from visual dynamical systems, enabling stable trajectory prediction and physically consistent variable extraction across diverse temporal domains.
