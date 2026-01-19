@@ -15,7 +15,7 @@ My research interests include Web Agents, Trustworthy ML, and Computer Vison.
 
 ## Publications
 ### How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors
-**Kuai Yu**, Naicheng Yu, Han Wang, Huan Zhang
+**Kuai Yu**, Naicheng Yu, Han Wang, Rui Yang, Huan Zhang
 
 *Under Review*  
 
