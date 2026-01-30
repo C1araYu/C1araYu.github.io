@@ -18,6 +18,7 @@ My research interests include Web Agents, Trustworthy ML, and Computer Vison.
 **Kuai Yu**, Naicheng Yu, Han Wang, Rui Yang, Huan Zhang
 
 *Under Review*
+
 **[Paper Link](https://arxiv.org/pdf/2601.21961)**
 
 We propose VAF, a comprehensive evaluation framework that systematically generates CSS-based webpage variants to analyze how visual design elements such as color, layout, and typography influence web agents’ decision-making, revealing human-like visual biases and vulnerabilities in multimodal web agents.
