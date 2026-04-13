@@ -10,14 +10,14 @@ Hi! I'm Kuai. My name means happiness and speed in Chinese, two things I bring t
 
 My research interests include Web Agents, Trustworthy ML, and Computer Vison.
 
-**I am looking for a PhD position in Fall 2026!!**
+**I’m thrilled to be joining Boyuan Chen’s group at Duke University as a PhD student in Fall 2026!!**
 
 
 ## Publications
 ### How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors
 **Kuai Yu**, Naicheng Yu, Han Wang, Rui Yang, Huan Zhang
 
-*Under Review*
+*ACL 2026*
 
 **[Paper Link](https://arxiv.org/pdf/2601.21961)**
 
@@ -28,7 +28,7 @@ We propose VAF, a comprehensive evaluation framework that systematically generat
 
 **Kuai Yu**, Crystal Su, Xiang Liu, Judah Goldfeder, Mingyuan Shao, Hod Lipson
 
-*2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP26)*  
+*2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP26) Oral*  
 **[Paper Link](https://arxiv.org/abs/2510.19716)**
 
 We propose LyTimeT, a vision-transformer-based framework that integrates Lyapunov-theoretic regularization with time-series modeling to discover interpretable and robust state variables from visual dynamical systems, enabling stable trajectory prediction and physically consistent variable extraction across diverse temporal domains.
@@ -56,7 +56,7 @@ We present W3FedPOSE, a practical federated learning framework that integrates W
 ---
 
 ## Services
-Reviewers for AAAI2026.
+Reviewers for AAAI2026, ACL2026.
 
 
 
