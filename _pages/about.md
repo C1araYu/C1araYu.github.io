@@ -28,7 +28,7 @@ We propose VAF, a comprehensive evaluation framework that systematically generat
 
 **Kuai Yu**, Crystal Su, Xiang Liu, Judah Goldfeder, Mingyuan Shao, Hod Lipson
 
-*2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP26) Oral*  
+*2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP26) **Oral***  
 **[Paper Link](https://arxiv.org/abs/2510.19716)**
 
 We propose LyTimeT, a vision-transformer-based framework that integrates Lyapunov-theoretic regularization with time-series modeling to discover interpretable and robust state variables from visual dynamical systems, enabling stable trajectory prediction and physically consistent variable extraction across diverse temporal domains.
