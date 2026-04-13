@@ -10,7 +10,7 @@ Hi! I'm Kuai. My name means happiness and speed in Chinese, two things I bring t
 
 My research interests include Web Agents, Trustworthy ML, and Computer Vison.
 
-**I’m thrilled to be joining Boyuan Chen’s group at Duke University as a PhD student in Fall 2026!!**
+**I’m thrilled to be joining [Boyuan Chen](https://generalroboticslab.com/director)’s group at Duke University as a PhD student in Fall 2026!!**
 
 
 ## Publications
