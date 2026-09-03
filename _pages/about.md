@@ -45,15 +45,6 @@ We propose POLAR, a reinforcement learning-based method that formulates layer-wi
 
 ---
 
-### W3FedPOSE: A Practical WEB3.0-Based Federated Learning Framework with Privacy, Ownership, Security, and Efficiency  
-
-Peishen Yan, **Kuai Yu**, Yaozhi Zhang, Yulin Sun, Shuang Liang, Yang Hua, Tao Song, Linshan Jiang, Ningxin Hu, Mohammad Reza Haghighat, Bingsheng He, Haibing Guan  
-
-*Under Review*  
-
-We present W3FedPOSE, a practical federated learning framework that integrates Web3.0 technologies. It leverages blockchain and smart contracts for secure data ownership and access control, while introducing an explainable, incentive-driven algorithm for efficient and trustworthy collaboration.
-
----
 
 ## Services
 Reviewers for AAAI2026, ACL2026.
