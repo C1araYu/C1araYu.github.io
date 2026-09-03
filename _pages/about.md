@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I'm Kuai. My name means happiness and speed in Chinese, two things I bring to both my research and my daily life. I'm a first year PhD student in MEMS from [Duke Engineering](https://pratt.duke.edu/). I obtained my Master degree in Computer Science from [Columbia Engineering](https://www.engineering.columbia.edu/). I am super honored to be advised by [Prof. Boyuan Chen](https://generalroboticslab.com/director). I was very fortunate to be supervised by [Prof. Hod Lipson](https://www.hodlipson.com/) in [Creative Machines Lab](https://www.creativemachineslab.com/) from [Columbia University](https://www.columbia.edu/).
 
-My research interests include Web Agents, Trustworthy ML, and Computer Vison.
+My research interests include Modeling in Dynamic Systems, VLA and Web Agents.
 
 **I’m thrilled to be joining [GRL](https://generalroboticslab.com/director)’s group at Duke University as a PhD student in Fall2026!!**
 
